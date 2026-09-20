@@ -1,1 +1,1 @@
-# iplacex-cine-api-yerko_orellana
+API REST Express para administración de películas favoritas de empleados de IPLACEX
